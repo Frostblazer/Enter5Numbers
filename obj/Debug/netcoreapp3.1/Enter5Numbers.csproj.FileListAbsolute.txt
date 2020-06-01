@@ -1,0 +1,13 @@
+C:\Users\Shawn\source\repos\Enter5Numbers\bin\Debug\netcoreapp3.1\Enter5Numbers.exe
+C:\Users\Shawn\source\repos\Enter5Numbers\bin\Debug\netcoreapp3.1\Enter5Numbers.deps.json
+C:\Users\Shawn\source\repos\Enter5Numbers\bin\Debug\netcoreapp3.1\Enter5Numbers.runtimeconfig.json
+C:\Users\Shawn\source\repos\Enter5Numbers\bin\Debug\netcoreapp3.1\Enter5Numbers.runtimeconfig.dev.json
+C:\Users\Shawn\source\repos\Enter5Numbers\bin\Debug\netcoreapp3.1\Enter5Numbers.dll
+C:\Users\Shawn\source\repos\Enter5Numbers\bin\Debug\netcoreapp3.1\Enter5Numbers.pdb
+C:\Users\Shawn\source\repos\Enter5Numbers\obj\Debug\netcoreapp3.1\Enter5Numbers.csprojAssemblyReference.cache
+C:\Users\Shawn\source\repos\Enter5Numbers\obj\Debug\netcoreapp3.1\Enter5Numbers.AssemblyInfoInputs.cache
+C:\Users\Shawn\source\repos\Enter5Numbers\obj\Debug\netcoreapp3.1\Enter5Numbers.AssemblyInfo.cs
+C:\Users\Shawn\source\repos\Enter5Numbers\obj\Debug\netcoreapp3.1\Enter5Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\Enter5Numbers\obj\Debug\netcoreapp3.1\Enter5Numbers.dll
+C:\Users\Shawn\source\repos\Enter5Numbers\obj\Debug\netcoreapp3.1\Enter5Numbers.pdb
+C:\Users\Shawn\source\repos\Enter5Numbers\obj\Debug\netcoreapp3.1\Enter5Numbers.genruntimeconfig.cache

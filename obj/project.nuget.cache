@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdQASiwOigN6DpA1NT1fl8TnlgsTh7S1ajbqtyPISHqUikwtslFSieJcmWRk/o6UDDgAqnu1LZA9u+hbNmuJvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shawn\\source\\repos\\Enter5Numbers\\Enter5Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shawn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
